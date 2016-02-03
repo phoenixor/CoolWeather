@@ -36,12 +36,20 @@
         "source": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_area.xml",
+        "source": "D:\\AndroidStudioProjects\\CoolWeather\\app\\src\\main\\res\\layout\\choose_area.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CoolWeather\\app\\src\\main\\res\\layout\\weather_layout.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
